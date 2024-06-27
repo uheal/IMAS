@@ -1,1 +1,1 @@
-# MedCom
+# IMAS - Integrated Medical Agentic System
