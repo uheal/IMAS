@@ -1,10 +1,8 @@
 """
-File defining the Primary Care Provider (PCP).
-
-This agent is used in low complexity medical cases.
+This is the Primary Care Provider (PCP) agent. It is used in low complexity medical cases to answer medical questions.
 """
 from autogen import AssistantAgent
-from helper.simplify import AgentSimplify
+from agents_helper.simplify import AgentSimplify
 
 class AgentPCP:
     def __init__(self, config_list: dict, src_lang: str):

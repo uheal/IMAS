@@ -1,6 +1,4 @@
 """
-File defining the Community Health Worker (CHW).
-
 This agent is used by the human CHW or patient to keep them in-the-loop in a conversational manner.
 """
 from autogen import UserProxyAgent
