@@ -1,5 +1,5 @@
-import agents.agent_cases.mdt as mdt
-import agents.agent_cases.pcp as pcp
+import agents.agent_cases.medium as mdt
+import agents.agent_cases.low as pcp
 import agents.agents_helper.chw as chw
 import agents.agents_helper.complexity as complexity
 
