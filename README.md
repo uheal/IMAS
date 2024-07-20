@@ -29,7 +29,7 @@ Below are the datasets used for evaluation.
 - [PubMedQA](https://huggingface.co/datasets/qiaojin/PubMedQA)
 - [DDXPlus](https://huggingface.co/datasets/aai530-group6/ddxplus)
 - [Clinical Guidelines](https://huggingface.co/datasets/epfl-llm/guidelines)
-- [JAMA]()
+- [JAMA](https://github.com/xiaoman-zhang/PMC-VQA)
 
 Please take a look at the [dataset directory](https://github.com/uheal/IMAS/tree/main/datasets) for more details.
 ## Results
