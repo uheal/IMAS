@@ -22,3 +22,6 @@ Since the onset of COVID-19, rural communities worldwide have faced significant 
 | Complexity Assessment Agent  | Assess the complexity based on the clinical case details, Electronic Medical Records (EMR), etc. and classify the context   | Clinical case complexity assessment    | MLM  |
 | Collaborative Diagnostic Agents    | Clinical Specilaist Agents representing different medical conditions| Clinical specialists like Encronologist, Cardiologist, Dietitian | MLM  |
 | Response Simplification Agents    | Simplify medical responses to make them understandable for patients and healthcare workers by breaking down complex medical jargon into clear, concise, and actionable information, incorporating cultural sensitivity, providing step-by-step instructions, and implementing safeguards to prevent misinformation and ensure accuracy and safety.| Language simplification, Medical terminology transformation, Guardrails for disinformation / misinformation, and Cultural adaption | MLM  |
+
+## Results
+![image](https://github.com/user-attachments/assets/916cad9b-dd0e-40e4-b28f-013ef1accd77)
