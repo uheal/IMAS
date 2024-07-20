@@ -23,5 +23,14 @@ Since the onset of COVID-19, rural communities worldwide have faced significant 
 | Collaborative Diagnostic Agents    | Clinical Specilaist Agents representing different medical conditions| Clinical specialists like Encronologist, Cardiologist, Dietitian | MLM  |
 | Response Simplification Agents    | Simplify medical responses to make them understandable for patients and healthcare workers by breaking down complex medical jargon into clear, concise, and actionable information, incorporating cultural sensitivity, providing step-by-step instructions, and implementing safeguards to prevent misinformation and ensure accuracy and safety.| Language simplification, Medical terminology transformation, Guardrails for disinformation / misinformation, and Cultural adaption | MLM  |
 
+## Datasets
+Below are the datasets used for evaluation.
+- [MedQA](https://huggingface.co/datasets/bigbio/med_qa)
+- [PubMedQA](https://huggingface.co/datasets/qiaojin/PubMedQA)
+- [DDXPlus](https://huggingface.co/datasets/aai530-group6/ddxplus)
+- [Clinical Guidelines](https://huggingface.co/datasets/epfl-llm/guidelines)
+- [JAMA]()
+
+Please take a look at the [dataset directory](https://github.com/uheal/IMAS/tree/main/datasets) for more details.
 ## Results
 ![image](https://github.com/user-attachments/assets/916cad9b-dd0e-40e4-b28f-013ef1accd77)
