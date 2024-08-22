@@ -21,9 +21,10 @@ analysis_results = complexity_agent.agent.generate_reply(
     messages=[{"content": f"Symptoms and Condition Description: {query}", "role": "user"}]
 )
 
-# Match case to generate the proper diagnosis depending on the complexity
+
 reply = ""
 
+# Match case to generate the proper diagnosis depending on the complexity
 match analysis_results:
     case "low":
         pcp_agent = pcp.AgentPCP(config_list, src_lang)
