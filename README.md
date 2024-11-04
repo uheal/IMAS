@@ -1,4 +1,5 @@
 # IMAS - Integrated Medical Agentic System
+_Access the paper and technical details [here](https://arxiv.org/abs/2410.12868) via [arXiv](https://arxiv.org/)_
 ## Introduction
 IMAS is an advanced agentic medical assistant system designed to enhance healthcare delivery in rural areas, especially where experienced medical professionals are scarce. Leveraging fine-tuned healthcare domain-adapted Large Language Models (LLMs) and agentic approaches, IMAS aims to support Community Health Workers (CHWs).
 
